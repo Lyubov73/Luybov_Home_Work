@@ -1,3 +1,3 @@
-my_name = "Любовь"
-my_name = "Любовь Байметова"
-print(my_name)
+my_age = 52
+my_age = 52 + 3
+print(my_age)

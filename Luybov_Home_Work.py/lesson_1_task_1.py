@@ -1,2 +1,2 @@
-my_heigh = 173
-print(my_heigh)
+my_name = "Любовь"
+print(my_name)
