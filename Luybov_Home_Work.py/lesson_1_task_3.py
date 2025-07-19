@@ -1,2 +1,3 @@
-pet_name = input("Как зовут вашего питомца? ")
-print("Ваш любимчик - " + pet_name)
+first_name= input("Введите ваше имя")
+last_name = input("Введите ваше имя")
+print("Вас зовут^" + last_name + first_name)
