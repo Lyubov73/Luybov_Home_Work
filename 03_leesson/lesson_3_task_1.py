@@ -1,5 +1,9 @@
-from user import User
-my_user = User("Любовь","Байметова")
-my_user.print_first_name()
-my_user.print_last_name()
-my_user.print_full_name()
+from user import User 
+
+Любовь = User("Любовь","Байметова")
+Байметова = User("Любовь","Байметова")
+Любовь_Байметова = User("Любовь","Байметова")
+
+Любовь.print_first_name()
+Байметова.print_last_name()
+Любовь_Байметова.print_ful_name()
