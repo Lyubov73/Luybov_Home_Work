@@ -1,0 +1,8 @@
+Запрос 1
+SELECT user_ind
+FROM user
+WHERE user_email = 'houston@dmail.com';
+Запрос 2
+SELECT subjekt_title
+FROM subjekt
+WHERE subjekt_id = 12203;
